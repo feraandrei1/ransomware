@@ -4,6 +4,14 @@ This is a basic ransomware that you can use to encrypt data from your computer
 
 ## Installation
 
+Download or git clone this repository :
+
+```bash
+git clone https://github.com/feraandrei1/ransomware
+```
+
+(If you downloaded it unzip it)
+
 You need to open the folder with VS Code. After that you can install the requirements by typing the terminal :
 
 ```bash
